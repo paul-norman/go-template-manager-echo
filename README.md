@@ -12,7 +12,7 @@ package main
 import (
 	"net/http"
 
-	TM "example/website/templateManagerEcho"
+	TM "github.com/paul-norman/go-template-manager-echo"
 	"github.com/labstack/echo/v4"
 )
 
